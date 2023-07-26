@@ -1,0 +1,47 @@
+/* PastTrips.css */
+
+.card {
+    max-width: 800px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .trip-info {
+    margin-bottom: 15px;
+  }
+  
+  .trip-info p {
+    margin: 5px 0;
+  }
+  
+  .edit-delete-btns {
+    display: flex;
+  }
+  
+  .edit-btn,
+  .delete-btn {
+    background-color: #2c3f2c;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .edit-btn:hover,
+  .delete-btn:hover {
+    background-color: #45a049;
+  }
+  

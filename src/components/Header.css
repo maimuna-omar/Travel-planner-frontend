@@ -1,0 +1,61 @@
+/* Header.css */
+
+header {
+    background-color: rgb(7, 96, 126);
+    color: rgb(227, 219, 219);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  .title-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 0;
+  }
+  
+  .travel-away {
+    font-size: 14px;
+    margin-left: 1rem;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  nav a {
+    color: rgb(255, 251, 251);
+    text-decoration: none;
+    margin: 0 1rem;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    color: rgb(218, 241, 230);
+  }
+  
+  .logout-btn {
+    background-color: transparent;
+    color: #fafffe;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    font-weight: 900;
+    font-size: larger;
+    cursor: pointer;
+  }
+  
+  .logout-btn:hover {
+    background-color: #0d0e0e;
+    color: white;
+  }
+  
