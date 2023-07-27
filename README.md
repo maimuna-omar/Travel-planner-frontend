@@ -37,6 +37,8 @@ npm install
 # Start the development server
 npm start
 
+#backend repo link
+https://github.com/maimuna-omar/Travel-planner-backend.git
 
 # deploymnet link
 
