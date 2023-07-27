@@ -24,19 +24,6 @@ The Travel Planner App is a web application that allows users to plan and manage
 2. Install the required dependencies using npm or yarn.
 3. Start the development server.
 
-bash
-# Clone the repository
-git clone https://github.com/your-username/travel-planner-app.git
-
-# Navigate to the project directory
-cd travel-planner-app
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
 #backend repo link
 https://github.com/maimuna-omar/Travel-planner-backend.git
 
