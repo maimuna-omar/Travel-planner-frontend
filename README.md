@@ -24,7 +24,7 @@ The Travel Planner App is a web application that allows users to plan and manage
 2. Install the required dependencies using npm or yarn.
 3. Start the development server.
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/your-username/travel-planner-app.git
 
@@ -39,3 +39,5 @@ npm start
 
 
 # deploymnet link
+
+https://gleeful-alpaca-fad2cd.netlify.app/
